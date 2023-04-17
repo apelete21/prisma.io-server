@@ -102,7 +102,7 @@ or if you're using yarn :
 
 This command connect to the database and keep tracking a lot of features related to prisma, then we can use everything prisma provided for us.
 
-If done you will see a table in your current database named `__prisma_migrations`. Now we can migrate our models into the database and create our tables basing on our models. To do it runn this command:
+If done you will see a table in your current database named `_prisma_migrations`. Now we can migrate our models into the database and create our tables basing on our models. To do it runn this command:
 
 ```sh
     npx prisma migrate deploy
