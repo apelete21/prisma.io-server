@@ -243,7 +243,7 @@ or if you're using yarn :
 
 <br>
 
-*` ADZOHONOU K. Apelete`*  - - -  *`adzohonouapelete@gmail.com`*
+*ADZOHONOU K. Apelete*  - - -  *adzohonouapelete@gmail.com*
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
