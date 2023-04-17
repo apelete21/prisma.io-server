@@ -121,6 +121,8 @@ or if you're using yarn :
 
 # User Guide
 
+PS : The `ownerId` and the `builtById` must be one of the users data id you create or you will get wrong data or errors.
+
 - To create an user:
 
   \_ EndPoint: _`POST http://localhost:5000/`_
@@ -172,7 +174,7 @@ or if you're using yarn :
   ```json
   {
     "address": "6543 Main Street, V4BA",
-    "wifiPassword": "password",
+    "wifiPassword": "password", // or remove this line to set this variable value to "null"
     "ownerId": "6418a4b3-8e3f-4f0d-b2c8-1a0dcaa14ed6",
     "builtById": "a607501a-3baa-47ca-8e63-7a61581b390b"
   }
